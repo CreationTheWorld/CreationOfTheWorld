@@ -1,0 +1,1 @@
+This folder contains all the designs of this DAPP game(how to play, how to pay, UI look like ...)
